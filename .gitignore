@@ -1,5 +1,2 @@
-__pycache__/
-*.pyc
-.env
-venv/
-.env/
+desktop.ini
+.gitignore.txt
