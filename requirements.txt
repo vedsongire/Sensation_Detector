@@ -1,0 +1,4 @@
+customtkinter
+SpeechRecognition
+textblob
+pyaudio
